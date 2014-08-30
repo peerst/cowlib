@@ -19,7 +19,6 @@
 	{registered, []},
 	{applications, [
 		kernel,
-		stdlib,
-		crypto
+		stdlib
 	]}
 ]}.
